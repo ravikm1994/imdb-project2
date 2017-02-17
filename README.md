@@ -1,1 +1,1 @@
-# imdb-project2
+# IMDB-Project
